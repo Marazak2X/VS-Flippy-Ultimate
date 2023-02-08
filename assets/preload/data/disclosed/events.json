@@ -1,0 +1,140 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "blood",
+		"player1": "bf-carry",
+		"player2": "flippy-blood",
+		"player3": null,
+		"events": [
+			[
+				79792.2077922078,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80155.8441558442,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85610.3896103897,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85974.025974026,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91428.5714285715,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91792.2077922078,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97246.7532467533,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97610.3896103897,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149610.38961039,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171428.571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172883.116883117,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				263064.935064934,
+				[
+					[
+						"burn",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"secretSong": false,
+		"splashSkin": "BnoteSplashes",
+		"validScore": false,
+		"gfVersion": "bf",
+		"bpm": 140,
+		"arrowSkin": "BNOTE_assets",
+		"needsVoices": true,
+		"song": "disclosed"
+	}
+}

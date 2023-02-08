@@ -1,0 +1,71 @@
+{
+	"song": {
+		"events": [
+			[
+				81126.7605633803,
+				[
+					[
+						"Flashback",
+						"1",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.55",
+						"1"
+					],
+					[
+						"Black Bars",
+						"1",
+						"100"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-tiger-phase4"
+					]
+				]
+			],
+			[
+				81153.1690140845,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.6",
+						"1"
+					]
+				]
+			],
+			[
+				106478.873239437,
+				[
+					[
+						"Black Bars",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				108169.014084507,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					],
+					[
+						"Flashback",
+						"2",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.65",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

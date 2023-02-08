@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Zoom Tween",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				131.578947368421,
+				[
+					[
+						"Camera Follow Pos",
+						"1300",
+						"150"
+					]
+				]
+			],
+			[
+				1052.63157894737,
+				[
+					[
+						"Change Character",
+						"dad",
+						"flippy-cicerega"
+					]
+				]
+			],
+			[
+				10526.3157894737,
+				[
+					[
+						"Camera Follow Pos",
+						"normal",
+						"normal"
+					],
+					[
+						"Cam Zoom Tween",
+						"0.65",
+						"0.75"
+					]
+				]
+			]
+		]
+	}
+}

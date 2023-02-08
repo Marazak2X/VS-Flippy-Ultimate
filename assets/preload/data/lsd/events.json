@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "camp",
+		"player1": "bf-carry",
+		"player2": "flippy",
+		"player3": null,
+		"events": [
+			[
+				5818.18181818182,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"secretSong": false,
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "LSD"
+	}
+}
