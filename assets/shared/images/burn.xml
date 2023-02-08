@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="burn.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="burnfall0000" x="0" y="0" width="342" height="1975" pivotX="80.65" pivotY="120.15"/>
+	<SubTexture name="burnfall0001" x="0" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0002" x="0" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0003" x="392" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0004" x="784" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0005" x="1176" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0006" x="1568" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0007" x="1960" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0008" x="2352" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0009" x="2744" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0010" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0011" x="3528" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0012" x="3920" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0013" x="4312" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0014" x="4704" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0015" x="5096" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0016" x="5488" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0017" x="5880" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0018" x="6272" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0019" x="6664" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0020" x="7056" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0021" x="7448" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0022" x="7840" y="0" width="342" height="1975"/>
+	<SubTexture name="burnfall0023" x="0" y="2025" width="342" height="1975"/>
+</TextureAtlas>

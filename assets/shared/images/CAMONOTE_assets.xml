@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="camoNotes.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="157" height="155" pivotX="1.5" pivotY="-1.5"/>
+	<SubTexture name="blue hold end0000" x="207" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="blue hold piece0000" x="307" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="green0000" x="407" y="0" width="157" height="155" pivotX="1.5" pivotY="-1.5"/>
+	<SubTexture name="green hold end0000" x="207" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="green hold piece0000" x="307" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="pruple end hold0000" x="207" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="purple0000" x="614" y="0" width="154" height="157" pivotX="0.5" pivotY="1.3"/>
+	<SubTexture name="purple hold piece0000" x="307" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="red0000" x="818" y="0" width="154" height="156" pivotX="0" pivotY="0.8"/>
+	<SubTexture name="red hold end0000" x="207" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="red hold piece0000" x="307" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+</TextureAtlas>

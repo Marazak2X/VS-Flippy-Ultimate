@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bomb.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bomb anim0000" x="0" y="0" width="342" height="1975" pivotX="80.65" pivotY="120.15"/>
+	<SubTexture name="bomb anim0001" x="392" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0002" x="784" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0003" x="1176" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0004" x="1568" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0005" x="1960" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0006" x="2352" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0007" x="2744" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0008" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0009" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0010" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0011" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0012" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0013" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0014" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0015" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0016" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0017" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0018" x="3136" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0019" x="3528" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0020" x="3528" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0021" x="3528" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0022" x="3528" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0023" x="3528" y="0" width="342" height="1975"/>
+	<SubTexture name="bomb anim0024" x="0" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0025" x="0" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0026" x="0" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0027" x="0" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0028" x="392" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0029" x="392" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0030" x="392" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0031" x="392" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0032" x="392" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0033" x="784" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0034" x="784" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0035" x="784" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0036" x="1176" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0037" x="1176" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0038" x="1176" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0039" x="1176" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0040" x="1176" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0041" x="1176" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0042" x="1568" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0043" x="1960" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0044" x="1568" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0045" x="1568" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0046" x="1568" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0047" x="1960" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0048" x="2352" y="2025" width="342" height="1975"/>
+	<SubTexture name="bomb anim0049" x="1960" y="2025" width="342" height="1975"/>
+</TextureAtlas>
