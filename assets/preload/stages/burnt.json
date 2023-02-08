@@ -1,0 +1,10 @@
+{
+	"directory": "flippy",
+	"defaultZoom": 0.65,
+	"isPixelStage": false,
+
+	"boyfriend": [600, 184],
+	"girlfriend": [400, 130],
+	"opponent": [200, -20],
+	"hide_girlfriend": true
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				41
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KAPOW left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KAPOW down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				102
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KAPOW up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KAPOW right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "KAPOW idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FLIPPY_kapow",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kapow",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		102,
+		97
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

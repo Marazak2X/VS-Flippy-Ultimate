@@ -1,0 +1,14 @@
+{
+	"directory": "flippy",
+	"defaultZoom": 0.65,
+	"isPixelStage": false,
+	"isBloodStage": true,
+
+	"boyfriend": [1020, -40],
+	"girlfriend": [800, 130],
+	"opponent": [40, 210],
+	"hide_girlfriend": false,
+
+        "camera_boyfriend": [-100, 0],
+        "camera_opponent": [100, 0]
+}

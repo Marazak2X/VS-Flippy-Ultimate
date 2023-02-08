@@ -1,0 +1,50 @@
+{
+	"storyName": "Alt Flippy Week",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "AltBG",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Compass",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Assault",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bombshell",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Alt week"
+}

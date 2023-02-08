@@ -1,0 +1,50 @@
+{
+	"storyName": "Bonus",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "BonusBG",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Slasher",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cleave",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Disturbed",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Minus Week",
+	"hiddenUntilUnlocked": false
+}

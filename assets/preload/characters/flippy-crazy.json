@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FLP3 M L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FLP3 M D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				126
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FLP3 M U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FLP3 M RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				272,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "FLP3 Alt Idle"
+		},
+		{
+			"offsets": [
+				370,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "FLP3 Alt M L"
+		},
+		{
+			"offsets": [
+				276,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "FLP3 Alt M D"
+		},
+		{
+			"offsets": [
+				373,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "FLP3 Alt M U"
+		},
+		{
+			"offsets": [
+				370,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "FLP3 Alt M RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FLP3 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FLIPPY_crazy",
+	"position": [
+		45,
+		105
+	],
+	"healthicon": "flippy-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-110,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

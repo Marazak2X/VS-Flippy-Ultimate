@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weekSelect.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alt0000" x="0" y="82" width="144" height="77"/>
+	<SubTexture name="bonus0000" x="247" y="0" width="233" height="77"/>
+	<SubTexture name="downarrow0000" x="368" y="82" width="68" height="38"/>
+	<SubTexture name="downselect0000" x="222" y="82" width="68" height="38"/>
+	<SubTexture name="main0000" x="0" y="0" width="242" height="77"/>
+	<SubTexture name="uparrow0000" x="295" y="82" width="68" height="38"/>
+	<SubTexture name="upselect0000" x="149" y="82" width="68" height="38"/>
+</TextureAtlas>

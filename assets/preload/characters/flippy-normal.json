@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-250,
+				-230
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-55,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-160,
+				-245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-170,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-247,
+				-198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flippy_phase_4",
+	"position": [
+		-400,
+		170
+	],
+	"healthicon": "flippy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		250,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
