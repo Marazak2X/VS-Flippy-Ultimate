@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="discord.png"><SubTexture name="discord both0000" x="0" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord zayders0000" x="2564" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord nobody0000" x="0" y="1404" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord junee0000" x="2564" y="1404" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="discord_2.png"><SubTexture name="discord_2 jm0000" x="0" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord_2 zm0000" x="2564" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord_2 zj0000" x="0" y="1404" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord_2 j0000" x="2564" y="1404" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord_2 z0000" x="0" y="2808" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord_2 m0000" x="2564" y="2808" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord_2 noone0000" x="0" y="4212" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="discord_2 everyone0000" x="2564" y="4212" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+</TextureAtlas>
